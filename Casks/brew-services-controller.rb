@@ -1,6 +1,6 @@
 cask "brew-services-controller" do
-  version "0.5.0"
-  sha256 "6e36a40622f8bc80a75f24dcd858e2b0466a966f41075f66eac5020758e5e0cc"
+  version "0.7.0"
+  sha256 "37a9cc2fe397bb44ec8d517ad82fd66f4ddb3aed9bb8f6d63a77121c9dba788f"
 
   url "https://github.com/uded/brew-services-controller/releases/download/v#{version}/BrewServicesController-#{version}.zip"
   name "Brew Services Controller"
